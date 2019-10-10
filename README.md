@@ -34,3 +34,7 @@ In the proposed approach, nouns and verbs of the original datasets are considere
 new dataset. The same procedure is implemented over our new dataset to observe the
 performance fluctuations. The observed results for both the datasets are then evaluated.
 This parts helps understanding the requirements that carry much-needed information.
+
+
+The model is implemented on two datasets and the results are recorded to observe the impact of 
+characteristics.
